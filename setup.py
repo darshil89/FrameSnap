@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="video_frame_extractor",
+    name="FrameSnap",
     version="1",
     packages=find_packages(),
     install_requires=[
@@ -14,5 +14,5 @@ setup(
     },
     author="Darshil",
     description="A Python library to extract frames from videos and save them as images.",
-    url="https://github.com/darshil89/video-frame-extractor",
+    url="https://github.com/darshil89/FrameSnap",
 )
