@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: FrameSnap
+Version: 1
+Summary: A Python library to extract frames from videos and save them as images.
+Home-page: https://github.com/darshil89/FrameSnap
+Author: Darshil
+Requires-Dist: opencv-python
